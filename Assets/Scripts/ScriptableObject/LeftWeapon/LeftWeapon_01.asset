@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 42e4fcca585abc54fb0cff449fcdf149, type: 3}
+  m_Name: LeftWeapon_01
+  m_EditorClassIdentifier: 
+  Id: 1
+  Type: 1
+  Artwork: {fileID: 21300022, guid: e084cf649985a9d47b37e55b7c433513, type: 3}
+  Name: SWORD
+  Description: "\uCE7C"
+  AddAttack: 40
+  AddKnockback: 0
+  AddManaCost: 20

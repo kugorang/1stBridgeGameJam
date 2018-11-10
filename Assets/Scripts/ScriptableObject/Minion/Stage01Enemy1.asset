@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 45bc809f61c208e43859d4199b1b0f92, type: 3}
+  m_Name: Stage01Enemy1
+  m_EditorClassIdentifier: 
+  Type: 0
+  Artwork: {fileID: 21300000, guid: b0b3596a8ab5be647a2c59d8f43b2335, type: 3}
+  ManaCost: 0
+  AppearPercent: 0
+  Attack: 20
+  Knockback: 1.3
+  Hp: 60
+  MoveSpeed: 1
+  LwId: 0
+  RwId: 0

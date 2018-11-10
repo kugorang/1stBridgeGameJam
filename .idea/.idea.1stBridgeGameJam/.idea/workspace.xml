@@ -1,0 +1,632 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2fd49d44-f5a9-4d62-bc04-29d15e620e1b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1150309381">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="4" />
+          <entry key="project.open.time.193" value="1" />
+          <entry key="project.open.time.30" value="1" />
+          <entry key="project.open.time.51" value="1" />
+          <entry key="project.open.time.90" value="1" />
+          <entry key="project.opened" value="4" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="10393" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="10393" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="38" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/StageManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+              <folding>
+                <marker date="1541501789432" expanded="false" signature="6:79" ph="..." />
+                <marker date="1541501789432" expanded="true" signature="122:2392" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="760:1018" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1042:1315" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1091:1197" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1204:1312" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1339:1467" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1500:1614" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1649:1847" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1711:1844" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1883:2057" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="1916:2032" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="2093:2245" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="2126:2242" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="2285:2332" ph="{...}" />
+                <marker date="1541501789432" expanded="true" signature="2360:2388" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MinionController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-162">
+              <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+              <folding>
+                <marker date="1541497231682" expanded="false" signature="6:53" ph="..." />
+                <marker date="1541497231682" expanded="true" signature="100:3204" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="372:564" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="591:670" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="783:2097" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="1390:1811" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="1619:1801" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="2150:2899" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="2183:2849" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="2959:3202" ph="{...}" />
+                <marker date="1541497231682" expanded="true" signature="3017:3070" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="226">
+              <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+              <folding>
+                <marker date="1541499409547" expanded="true" signature="6:32" ph="..." />
+                <marker date="1541499409547" expanded="true" signature="85:1318" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="214:461" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="282:458" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="505:688" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="725:840" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="878:988" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="1019:1196" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="1046:1120" ph="{...}" />
+                <marker date="1541499409547" expanded="true" signature="1235:1316" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/TutorialController.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="432">
+              <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+              <folding>
+                <marker date="1541501886226" expanded="false" signature="6:53" ph="..." />
+                <marker date="1541501886226" expanded="true" signature="102:656" ph="{...}" />
+                <marker date="1541501886226" expanded="true" signature="227:382" ph="{...}" />
+                <marker date="1541501886226" expanded="true" signature="406:654" ph="{...}" />
+                <marker date="1541501886226" expanded="true" signature="488:569" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+              <folding>
+                <marker date="1541501855599" expanded="false" signature="6:53" ph="..." />
+                <marker date="1541501855599" expanded="true" signature="97:888" ph="{...}" />
+                <marker date="1541501855599" expanded="true" signature="159:530" ph="{...}" />
+                <marker date="1541501855599" expanded="true" signature="316:527" ph="{...}" />
+                <marker date="1541501855599" expanded="true" signature="555:647" ph="{...}" />
+                <marker date="1541501855599" expanded="true" signature="669:711" ph="{...}" />
+                <marker date="1541501855599" expanded="true" signature="734:821" ph="{...}" />
+                <marker date="1541501855599" expanded="true" signature="846:886" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Assets/Scripts/MinionManager.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="828">
+              <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+              <folding>
+                <marker date="1541497977960" expanded="false" signature="6:88" ph="..." />
+                <marker date="1541497977960" expanded="true" signature="132:3146" ph="{...}" />
+                <marker date="1541497977960" expanded="true" signature="975:1029" ph="{...}" />
+                <marker date="1541497977960" expanded="true" signature="1055:2105" ph="{...}" />
+                <marker date="1541497977960" expanded="true" signature="1061:1188" ph="/* TODO: 이 코드는 _minions 배열이 등장 확률을 기준으로 오름차순임을 가정하므로 실행 전 Minion 배열 반드시 확인 ... */" />
+                <marker date="1541497977960" expanded="true" signature="1269:1855" ph="{...}" />
+                <marker date="1541497977960" expanded="true" signature="2011:2102" ph="/* LeftWeaponImg.sprite = LeftWeaponDefault; ... */" />
+                <marker date="1541497977960" expanded="true" signature="2153:2455" ph="{...}" />
+                <marker date="1541497977960" expanded="true" signature="2505:2817" ph="{...}" />
+                <marker date="1541497977960" expanded="true" signature="2855:3144" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>_enemyZone</find>
+      <find>_playerZone</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/StageManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Minion.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LeftWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/31/21b10e68/MonoBehaviour.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/a5/955d395d/SceneManager.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Sound.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/TutorialController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MinionController.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/66/12de142f/NullReferenceException.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/LoadManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/RightWeapon.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/7f/d95b38f7/ExecuteEvents.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/ff/76b826f5/WaitForSeconds.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/08/15180155/StandaloneInputModule.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/e2/06a5a6a5/SetupCoroutine.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/MinionManager.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/83/37e52834/UnitySynchronizationContext.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/StageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/MinionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/CastleController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/RightWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Minion.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LeftWeapon.cs" />
+        <option value="$PROJECT_DIR$/Assets/ButtonManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/TutorialController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Singleton.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Sound.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MinionController.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/AudioManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/LoadManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/MinionManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/StageManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ButtonManager.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TutorialController.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost" pid="22248">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" value="22248" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2fd49d44-f5a9-4d62-bc04-29d15e620e1b" name="Default Changelist" comment="" />
+      <created>1541213248321</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1541213248321</updated>
+      <workItem from="1541213266280" duration="15214000" />
+      <workItem from="1541246364128" duration="35956000" />
+      <workItem from="1541297952429" duration="1720000" />
+      <workItem from="1541494045843" duration="8126000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61016000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2147651" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" weight="0.32907802" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Event Log" order="13" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="5" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="UNITY_DEBUG_RUN_CONFIGURATION">
+        <watch expression="_leftVector" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/StageManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/MinionController.cs" />
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/7f/d95b38f7/ExecuteEvents.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="346" column="8" selection-start-line="346" selection-start-column="8" selection-end-line="346" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/4841B1F2-2252-469D-A6A6-FEBAF8844AAB/08/15180155/StandaloneInputModule.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="275" column="6" selection-start-line="275" selection-start-column="6" selection-end-line="275" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/3EB1172F-BB8A-454A-887F-2E67145F4E3E/66/12de142f/NullReferenceException.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="18" column="8" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/83/37e52834/UnitySynchronizationContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="62" column="6" selection-start-line="62" selection-start-column="6" selection-end-line="62" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/ff/76b826f5/WaitForSeconds.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="217">
+          <caret line="26" column="6" selection-start-line="26" selection-start-column="6" selection-end-line="26" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/e2/06a5a6a5/SetupCoroutine.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="24" column="6" selection-start-line="24" selection-start-column="6" selection-end-line="24" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/31/21b10e68/MonoBehaviour.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="94" column="6" selection-start-line="94" selection-start-column="6" selection-end-line="94" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/ButtonManager.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/CastleController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/TutorialController.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Sound.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="18" selection-start-column="18" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/BackgroundScroller.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1541293347939" expanded="true" signature="67:464" ph="{...}" />
+            <marker date="1541293347939" expanded="true" signature="211:256" ph="{...}" />
+            <marker date="1541293347939" expanded="true" signature="318:462" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Minion.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="22" column="29" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
+          <folding>
+            <marker date="1541261587322" expanded="true" signature="42:71" ph="{...}" />
+            <marker date="1541261587322" expanded="true" signature="182:520" ph="{...}" />
+            <marker date="1541261587322" expanded="true" signature="391:430" ph="/* public float AttackReach; ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LeftWeapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="26" selection-start-line="18" selection-start-column="26" selection-end-line="18" selection-end-column="26" />
+          <folding>
+            <marker date="1541261592255" expanded="true" signature="46:79" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/RightWeapon.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="32" selection-start-line="15" selection-start-column="32" selection-end-line="15" selection-end-column="32" />
+          <folding>
+            <marker date="1541260643015" expanded="true" signature="47:80" ph="{...}" />
+            <marker date="1541260643015" expanded="true" signature="208:483" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/2F14D49E-DC70-4940-AEE5-57642343F344/a5/955d395d/SceneManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="220" column="23" selection-start-line="220" selection-start-column="23" selection-end-line="220" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Singleton.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="80" selection-start-line="2" selection-start-column="16" selection-end-line="2" selection-end-column="80" />
+          <folding>
+            <marker date="1541298125396" expanded="true" signature="103:626" ph="/// Be aware this will not prevent a non singleton constructor such as `T myT = new T();` ... " />
+            <marker date="1541298125396" expanded="true" signature="701:2712" ph="{...}" />
+            <marker date="1541298125396" expanded="true" signature="863:1800" ph="{...}" />
+            <marker date="1541298125396" expanded="true" signature="881:1794" ph="{...}" />
+            <marker date="1541298125396" expanded="true" signature="1806:2599" ph="/// When Unity quits, it destroys objects in a random order. ... " />
+            <marker date="1541298125396" expanded="true" signature="2638:2710" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MinionController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-162">
+          <caret line="1" column="34" selection-start-line="1" selection-start-column="34" selection-end-line="1" selection-end-column="34" />
+          <folding>
+            <marker date="1541497231682" expanded="false" signature="6:53" ph="..." />
+            <marker date="1541497231682" expanded="true" signature="100:3204" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="372:564" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="591:670" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="783:2097" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="1390:1811" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="1619:1801" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="2150:2899" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="2183:2849" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="2959:3202" ph="{...}" />
+            <marker date="1541497231682" expanded="true" signature="3017:3070" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/LoadManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+          <folding>
+            <marker date="1541499651012" expanded="true" signature="6:53" ph="..." />
+            <marker date="1541499651012" expanded="true" signature="96:197" ph="{...}" />
+            <marker date="1541499651012" expanded="true" signature="154:195" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/MinionManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="828">
+          <caret line="73" column="40" selection-start-line="73" selection-start-column="40" selection-end-line="73" selection-end-column="40" />
+          <folding>
+            <marker date="1541497977960" expanded="false" signature="6:88" ph="..." />
+            <marker date="1541497977960" expanded="true" signature="132:3146" ph="{...}" />
+            <marker date="1541497977960" expanded="true" signature="975:1029" ph="{...}" />
+            <marker date="1541497977960" expanded="true" signature="1055:2105" ph="{...}" />
+            <marker date="1541497977960" expanded="true" signature="1061:1188" ph="/* TODO: 이 코드는 _minions 배열이 등장 확률을 기준으로 오름차순임을 가정하므로 실행 전 Minion 배열 반드시 확인 ... */" />
+            <marker date="1541497977960" expanded="true" signature="1269:1855" ph="{...}" />
+            <marker date="1541497977960" expanded="true" signature="2011:2102" ph="/* LeftWeaponImg.sprite = LeftWeaponDefault; ... */" />
+            <marker date="1541497977960" expanded="true" signature="2153:2455" ph="{...}" />
+            <marker date="1541497977960" expanded="true" signature="2505:2817" ph="{...}" />
+            <marker date="1541497977960" expanded="true" signature="2855:3144" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/StageManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="30" column="73" selection-start-line="30" selection-start-column="73" selection-end-line="30" selection-end-column="73" />
+          <folding>
+            <marker date="1541501789432" expanded="false" signature="6:79" ph="..." />
+            <marker date="1541501789432" expanded="true" signature="122:2392" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="760:1018" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1042:1315" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1091:1197" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1204:1312" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1339:1467" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1500:1614" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1649:1847" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1711:1844" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1883:2057" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="1916:2032" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="2093:2245" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="2126:2242" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="2285:2332" ph="{...}" />
+            <marker date="1541501789432" expanded="true" signature="2360:2388" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ButtonManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="12" column="8" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
+          <folding>
+            <marker date="1541501855599" expanded="false" signature="6:53" ph="..." />
+            <marker date="1541501855599" expanded="true" signature="97:888" ph="{...}" />
+            <marker date="1541501855599" expanded="true" signature="159:530" ph="{...}" />
+            <marker date="1541501855599" expanded="true" signature="316:527" ph="{...}" />
+            <marker date="1541501855599" expanded="true" signature="555:647" ph="{...}" />
+            <marker date="1541501855599" expanded="true" signature="669:711" ph="{...}" />
+            <marker date="1541501855599" expanded="true" signature="734:821" ph="{...}" />
+            <marker date="1541501855599" expanded="true" signature="846:886" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/AudioManager.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="226">
+          <caret line="47" column="16" selection-start-line="47" selection-start-column="16" selection-end-line="47" selection-end-column="16" />
+          <folding>
+            <marker date="1541499409547" expanded="true" signature="6:32" ph="..." />
+            <marker date="1541499409547" expanded="true" signature="85:1318" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="214:461" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="282:458" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="505:688" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="725:840" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="878:988" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="1019:1196" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="1046:1120" ph="{...}" />
+            <marker date="1541499409547" expanded="true" signature="1235:1316" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TutorialController.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="25" column="27" lean-forward="true" selection-start-line="25" selection-start-column="27" selection-end-line="25" selection-end-column="27" />
+          <folding>
+            <marker date="1541501886226" expanded="false" signature="6:53" ph="..." />
+            <marker date="1541501886226" expanded="true" signature="102:656" ph="{...}" />
+            <marker date="1541501886226" expanded="true" signature="227:382" ph="{...}" />
+            <marker date="1541501886226" expanded="true" signature="406:654" ph="{...}" />
+            <marker date="1541501886226" expanded="true" signature="488:569" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
